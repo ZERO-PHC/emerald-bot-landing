@@ -1,4 +1,4 @@
-# Emerald Academy
+# Emerald Bot Landing Site 
 
 Learn everything about the <b>Flow Blockchain</b> and the Cadence Smart Contract programming language.
 
