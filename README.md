@@ -1,12 +1,5 @@
 # Emerald Bot Landing Site 
 
-Learn everything about the <b>Flow Blockchain</b> and the Cadence Smart Contract programming language.
-
-## Description
-
-Emerald Academy is a series of Flow educational resources throughout time, by your <i>best</i> friends at <b>Emerald City</b>.
-
-## Contributing
 
 ### Getting Started
 
